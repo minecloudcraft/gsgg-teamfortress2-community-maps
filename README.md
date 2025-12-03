@@ -12,10 +12,12 @@ maps/
 ├── cp_dustcity.bsp
 ├── cp_otterburg_b1_nobox.bsp
 ├── ctf_2fort_rainstorm.bsp
+├── ctf_well_snowy_b4.bsp
 ├── ctf_bannanaslamma.bsp
 ├── ctf_tf2_2fort_2003.bsp
 ├── koth_dusker_b3.bsp
 └── koth_trainsawlaser_v3.bsp
+└── koth_snowyfest_b1.bsp
 ```
 
 ---
@@ -30,9 +32,10 @@ maps/
 | **ctf_2fort_rainstorm**   | Capture the Flag | ~27 MB    | Classic 2Fort with dynamic rain effects    |
 | **ctf_bannanaslamma**     | Capture the Flag | ~29 MB    | Fun tropical CTF experience                |
 | **ctf_tf2_2fort_2003**    | Capture the Flag | ~31 MB    | Old-school 2Fort remake from 2003          |
+| **ctf_well_snowy_b4**     | Capture the Flag | ~55 MB    | Santa Toy Factory                          |
 | **koth_dusker_b3**        | King of the Hill | ~26 MB    | Industrial arena at twilight               |
 | **koth_trainsawlaser_v3** | King of the Hill | ~33 MB    | Sawmill map with deadly laser traps ⚡      |
-
+| **koth_snowyfest_b1.bsp** | King of the Hill | ~10 MB    | Snowy Map for Christmas                    |
 ---
 
 ## 📥 How to Download
